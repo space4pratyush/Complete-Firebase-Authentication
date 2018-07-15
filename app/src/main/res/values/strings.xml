@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FAuthentication</string>
+    <string name="minimum_password">Password length is short</string>
+    <string name="auth_failed">Authentication failed</string>
+</resources>
